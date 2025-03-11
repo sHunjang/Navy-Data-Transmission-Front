@@ -11,9 +11,6 @@ const HomePage = () => {
                     <Link to="/send">데이터 전송 페이지</Link>
                 </li>
                 <li>
-                    <Link to="/save">데이터 저장 페이지</Link>
-                </li>
-                <li>
                     <Link to="/receive">데이터 수신 페이지</Link>
                 </li>
             </ul>
